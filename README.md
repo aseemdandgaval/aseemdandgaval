@@ -3,7 +3,7 @@
 - 👋 Welcome to my GitHub, I am student currently in my third year of Computer Science engineering.
 - 👀 I’m interested in Machine/Deep Learning and Data Science.
 - 🌱 I’m currently learning Machine/ Deep Learning with fast.ai and Pytorch and some web dev basics.
-- 👯I'm looking for internship opprtunities not only to contribute, but to also learn more in m area of interest.
+- 👯I'm looking for internship opprtunities not only to contribute, but to also learn more in my area of interest.
 <br />
 
 ### Languages and Tools:
