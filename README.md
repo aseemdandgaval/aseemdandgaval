@@ -1,9 +1,9 @@
 ### Hi there, I’m Aseem.
 
-- 👋 Welcome to my GitHub, I am student currently in my final year of Computer Science engineering.
-- 👀 I’m interested in Machine/Deep Learning and Data Science.
-- 🌱 I’m currently learning Natural Language Processing and its fundamentals.
-- 👯I'm looking for internship opprtunities not only to contribute, but also to learn more in my area of interest.
+- 👋 Welcome to my GitHub, I am an engineer with a Bachelors in Computer Engineering and an Honors in AI~ML.
+- 📖 I'm an incoming Graduate Student at the University of California San Diego for my Masters in Data Science in fall 2023.
+- 🌱 I’m really passionate in Machine/Deep Learning and Data Science.
+- 👯I'm looking for internship opprtunities for Summer 2024.
 <br />
 
 ### Languages and Tools:
