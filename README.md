@@ -1,9 +1,9 @@
 ### Hi there, I’m Aseem.
 
-- 👋 Welcome to my GitHub, I am an engineer with a Bachelors in Computer Engineering and an Honors in AI~ML.
+- 👋 Welcome to my GitHub, I am an engineer with a Bachelors's in Computer Engineering and an Honors in AI~ML.
 - 📖 I'm an incoming Graduate Student at the University of California San Diego for my Masters in Data Science in fall 2023.
-- 🌱 I’m really passionate in Machine/Deep Learning and Data Science.
-- 👯I'm looking for internship opprtunities for Summer 2024.
+- 🌱 I’m really passionate about Machine/Deep Learning and Data Science.
+- 👯I'm actively looking for internship opportunities for Summer 2024.
 <br />
 
 ### Languages and Tools:
