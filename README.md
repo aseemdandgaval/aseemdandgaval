@@ -3,7 +3,7 @@
 - 👋 Welcome to my GitHub, I am a MS in Data Science grad at the University of California San Diego!
 - 📖 I also hold a bachelor's in Computer Engineering with Honors in AI~ML.
 - 🌱 I’m really passionate about Machine/Deep Learning and Data Science.
-- 👯I'm actively looking for internship opportunities for Summer 2024.
+- 👯I'm actively looking for Full Time roles in Machine Learning and Data Science.
 <br />
 
 ### Languages and Tools:
