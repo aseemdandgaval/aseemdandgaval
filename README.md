@@ -4,7 +4,6 @@
 - 📖 I also hold a bachelor's in Computer Engineering with Honors in AI~ML.
 - 🌱 I’m really passionate about Machine/Deep Learning and Data Science.
 - 👯I'm actively looking for Full Time roles in Machine Learning and Data Science.
-<br />
 
 ### Languages and Tools:
 
