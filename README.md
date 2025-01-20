@@ -34,7 +34,4 @@
 [<img align="left" alt=" aseemdandgaval  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aseem-dandgaval-a9624b203/)
 
 📫: aseemdandgaval1@gmail.com
-<br />
-<br />
-<br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aseemdandgaval&show_icons=true&locale=en" alt="aseemdandgaval" /></p>
+
