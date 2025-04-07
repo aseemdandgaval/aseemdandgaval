@@ -1,9 +1,9 @@
 ### Hi there, I’m Aseem.
 
 - 👋 Welcome to my GitHub, I am a MS in Data Science grad at the University of California San Diego!
-- 📖 I also hold a bachelor's in Computer Engineering with Honors in AI~ML.
-- 🌱 I’m really passionate about Machine/Deep Learning and Data Science.
-- 👯I'm actively looking for Full Time roles in Machine Learning and Data Science.
+- 📖 I’m passionate about ML solutions that have an impact at scale.
+- 🌱 Currently working on AI Agents for Causal Inference + LLM Interpretability, RAG systems and Distributed Fine-Tuning.
+- 👯I'm actively looking for Full-Time roles in Machine Learning and Data Science.
 
 ### Languages and Tools:
 
